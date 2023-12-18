@@ -1,0 +1,51 @@
+#menu-line {
+  width: 100%;
+  opacity: 1;
+}
+
+.header-coffe-menu-container {
+  cursor: default;
+}
+
+.coffe-link-container a {
+  cursor: default;
+}
+
+/*  __________________________медиа Tablet___________________________ */
+
+@media (max-width: 1423.98px) {
+  .box1 {
+    width: 100%;
+  }
+
+  .box2 {
+    width: 100%;
+  }
+
+  .image-container {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 860.98px) {
+
+  #menu-line {
+    width: 0;
+    opacity: 0;
+  }
+
+}
+
+/*  __________________________медиа Mobile___________________________ */
+
+@media (max-width: 680px) {
+  
+  #menu-line {
+    width: 0;
+    opacity: 0;
+  }
+
+}
+
+
+    
