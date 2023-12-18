@@ -6,7 +6,7 @@
 ---
 ## Project Link:
 
-- :link: [![Git Bage](https://img.shields.io/badge/-CoffeHouse-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Library-LandingPage/)
+- :link: [![Git Bage](https://img.shields.io/badge/-CoffeHouse-green?style=plastic&logo=googlechrome&logoColor=red)](https://uahig.github.io/Coffe-house/)
 
 ---
 <img width="729" alt="Screenshot 2023-12-18 at 13 29 48" src="https://github.com/UAHIG/Coffe-house/assets/122532676/93217347-5bb8-4b4b-ae04-d887628980c0">
